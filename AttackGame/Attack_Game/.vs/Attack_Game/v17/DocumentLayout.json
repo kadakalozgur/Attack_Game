@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\enemy\\enemy health bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy health bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\player\\player health bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player health bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\managers\\game pause manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\game pause manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\objects\\health potion\\health potions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\health potion\\health potions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\coding\\unity\\attack_game\\assets\\scripts\\player\\knifeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\knifeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\coding\\unity\\attack_game\\assets\\scripts\\managers\\level manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\level manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\player\\heatlh potion canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\heatlh potion canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\managers\\game over manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\game over manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\player\\player combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\assets\\scripts\\player\\skill cooldown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0598568-E195-D9DF-43CA-E5C1487CADF1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\skill cooldown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Level Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Managers\\Level Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Level Manager.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Managers\\Level Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Level Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:07:13.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KnifeAttack.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\KnifeAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\KnifeAttack.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\KnifeAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\KnifeAttack.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:19:38.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player Combat.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\Player Combat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Combat.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\Player Combat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Combat.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:49:27.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:00:01.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:55:03.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game Pause Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Managers\\Game Pause Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Game Pause Manager.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Managers\\Game Pause Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Game Pause Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T11:16:25.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Health Potions.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Objects\\Health Potion\\Health Potions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Health Potion\\Health Potions.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Objects\\Health Potion\\Health Potions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\Health Potion\\Health Potions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:47:07.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player Health Bar.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\Player Health Bar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Health Bar.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\Player Health Bar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Health Bar.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T20:08:21.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy Health Bar.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Enemy\\Enemy Health Bar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy Health Bar.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Enemy\\Enemy Health Bar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy Health Bar.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:37:44.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game Over Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Managers\\Game Over Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Game Over Manager.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Managers\\Game Over Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Game Over Manager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T11:48:42.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Heatlh Potion Canvas.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\Heatlh Potion Canvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Heatlh Potion Canvas.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\Heatlh Potion Canvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Heatlh Potion Canvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:51:43.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Skill Cooldown.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\Skill Cooldown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Skill Cooldown.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Coding\\Unity\\Attack_Game\\Assets\\Scripts\\Player\\Skill Cooldown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Skill Cooldown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T13:39:01.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

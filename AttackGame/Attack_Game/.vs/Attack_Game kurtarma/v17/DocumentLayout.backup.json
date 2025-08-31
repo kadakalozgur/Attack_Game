@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\attack_game kurtarma\\assets\\scripts\\player\\player health bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player health bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\attack_game kurtarma\\assets\\scripts\\objects\\health potion\\health potions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\health potion\\health potions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\attack_game kurtarma\\assets\\scripts\\player\\player combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\attack_game kurtarma\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\attack_game kurtarma\\assets\\scripts\\managers\\game pause manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\game pause manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\attack_game kurtarma\\assets\\scripts\\managers\\game over manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\game over manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|c:\\users\\ozgur\\desktop\\attack_game kurtarma\\assets\\scripts\\player\\knifeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B003BF-83DD-A132-2E2F-09883009D285}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\knifeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player Health Bar.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Player\\Player Health Bar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Health Bar.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Player\\Player Health Bar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Health Bar.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:23:39.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Health Potions.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Objects\\Health Potion\\Health Potions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Health Potion\\Health Potions.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Objects\\Health Potion\\Health Potions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\Health Potion\\Health Potions.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:17:51.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:11:02.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game Pause Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Managers\\Game Pause Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Game Pause Manager.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Managers\\Game Pause Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Game Pause Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:08:58.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game Over Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Managers\\Game Over Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Game Over Manager.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Managers\\Game Over Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Game Over Manager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:06:24.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KnifeAttack.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Player\\KnifeAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\KnifeAttack.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Player\\KnifeAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\KnifeAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:04:20.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player Combat.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Player\\Player Combat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Combat.cs",
+              "ToolTip": "C:\\Users\\ozgur\\Desktop\\Attack_Game kurtarma\\Assets\\Scripts\\Player\\Player Combat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Combat.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:04:08.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

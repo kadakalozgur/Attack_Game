@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8406076143999015863
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0022
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_Name
+      value: katana
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_TagString
+      value: knife
+      objectReference: {fileID: 0}
+    - target: {fileID: 7640945620993564281, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.22098188
+      objectReference: {fileID: 0}
+    - target: {fileID: 7640945620993564281, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.38841426
+      objectReference: {fileID: 0}
+    - target: {fileID: 7640945620993564281, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.3205493
+      objectReference: {fileID: 0}
+    - target: {fileID: 7640945620993564281, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.83519435
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: -7408329355119604493, guid: 508bae4cd64729b4aa180c28a9e7b66b, type: 3}
+    - {fileID: 204559701495524675, guid: 508bae4cd64729b4aa180c28a9e7b66b, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6469461689057019704}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 296821417231735414}
+  m_SourcePrefab: {fileID: 100100000, guid: 508bae4cd64729b4aa180c28a9e7b66b, type: 3}
+--- !u!1 &8676475394808833766 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 508bae4cd64729b4aa180c28a9e7b66b,
+    type: 3}
+  m_PrefabInstance: {fileID: 8406076143999015863}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6469461689057019704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8676475394808833766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6846f343a63401a40bc23d30eb22091e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boxCollider: {fileID: 296821417231735414}
+  bloodEffectBoss: {fileID: 0}
+  bloodEffectSmallBoss: {fileID: 0}
+  bloodEffectSoldier: {fileID: 0}
+--- !u!65 &296821417231735414
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8676475394808833766}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.5460206, y: 0.91264904, z: 19.227695}
+  m_Center: {x: -0.026631685, y: 0.31302482, z: -7.9872622}
