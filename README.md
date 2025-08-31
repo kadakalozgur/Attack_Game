@@ -87,7 +87,9 @@ AttackGame is a dynamic **samurai-style battle game** developed in Unity by **Ö
    To load the game scene, open **`Assets/Scenes/SampleScene`**.
 
 📸 **Screenshot:**  
+
 ![OpenSampleScene](./AttackGame/ScreenShots/1.png)  
+
 ![OpenSampleScene](./AttackGame/ScreenShots/2.png)  
 
 ---
@@ -189,7 +191,9 @@ AttackGame, Unity ile **Özgür Kadakal** tarafından geliştirilmiş dinamik bi
    Oyun sahnesini yüklemek için **`Assets/Scenes/SampleScene`** dosyasını açın.
 
 📸 **Ekran Görüntüleri:**  
+
 ![OpenSampleScene](./AttackGame/ScreenShots/1.png)  
+
 ![OpenSampleScene](./AttackGame/ScreenShots/2.png)  
 
 ---
