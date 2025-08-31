@@ -62,13 +62,13 @@ AttackGame is a dynamic **samurai-style battle game** developed in Unity by **Ö
 
 ## 🖇️ Assets & References
 
-* 🧍‍♂️ Player Model: [Link](#)
-* ⚔ Katana Model: [Link](#)
-* 🌳 Map Model: [Link](#)
-* 👹 Enemy Models: [Link](#)
-* 🔊 Sound Effects: [Link](#)
-* 🏖 Sand Texture: [Link](#)
-* 🪨 Stone Texture: [Link](#)
+* 🧍‍♂️ Player Model: [Link](https://sketchfab.com/3d-models/mika-melatika-from-nijisanji-alt-outfit-bcb84e42798a4f55ac2a763c27591cf0)
+* ⚔ Katana Model: [Link](https://free3d.com/tr/3d-model/katana-75134.html)
+* 🌳 Map Model: [Link](https://sketchfab.com/3d-models/old-battle-arena-9dad465609334aef8f1d99c37a30c940)
+* 👹 Enemy Models: [Link](https://www.mixamo.com)
+* 🔊 Sound Effects: [Link](https://pixabay.com/tr/sound-effects/search/sound-fx)
+* 🏖 Sand Texture: [Link](https://www.poliigon.com/texture/rippled-wet-sand-texture/6997)
+* 🪨 Stone Texture: [Link](https://www.poliigon.com/texture/ledger-stone-wall-texture-mixed-gray/7000)
 
 ---
 
