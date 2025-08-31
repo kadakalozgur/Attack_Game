@@ -11,19 +11,19 @@
 ### 🖼️ Gameplay Previews
 
 ### 🎮 In-Game Screenshot 1
-![InGame1](./AttackGame/ScreenShots/1.png)
+![InGame1](./AttackGame/ScreenShots/3.png)
 
 ### 🎮 In-Game Screenshot 2
-![InGame2](ScreenShots/cardrift.png)
+![InGame2](./AttackGame/ScreenShots/6.png)
 
 ### 🎮 In-Game Screenshot 3
-![InGame3](ScreenShots/1.png)
+![InGame3](./AttackGame/ScreenShots/7.png)
 
 ### 🎮 In-Game Screenshot 4
-![InGame3](ScreenShots/2.png)
+![InGame4](./AttackGame/ScreenShots/5.png)
 
 ### 🎮 In-Game Screenshot 5
-![InGame3](ScreenShots/3.png)
+![InGame5](./AttackGame/ScreenShots/4.png)
 
 ---
 
@@ -87,8 +87,8 @@ AttackGame is a dynamic **samurai-style battle game** developed in Unity by **Ö
    To load the game scene, open **`Assets/Scenes/SampleScene`**.
 
 📸 **Screenshot:**  
-![OpenSampleScene](ScreenShots/4.png)  
-![OpenSampleScene](ScreenShots/5.png)  
+![OpenSampleScene](./AttackGame/ScreenShots/1.png)  
+![OpenSampleScene](./AttackGame/ScreenShots/2.png)  
 
 ---
 
@@ -112,19 +112,19 @@ For any feedback, questions, or suggestions:
 ## 🖼️ Oynanış Önizlemeleri
 
 ### 🎮 Oyun İçi Görüntü 1
-![InGame1](ScreenShots/car.png)
+![InGame1](./AttackGame/ScreenShots/3.png)
 
 ### 🎮 Oyun İçi Görüntü 2
-![InGame2](ScreenShots/cardrift.png)
+![InGame2](./AttackGame/ScreenShots/6.png)
 
 ### 🎮 Oyun İçi Görüntü 3
-![InGame3](ScreenShots/1.png)
+![InGame3](./AttackGame/ScreenShots/7.png)
 
 ### 🎮 Oyun İçi Görüntü 4
-![InGame3](ScreenShots/2.png)
+![InGame4](./AttackGame/ScreenShots/5.png)
 
 ### 🎮 Oyun İçi Görüntü 5
-![InGame3](ScreenShots/3.png)
+![InGame5](./AttackGame/ScreenShots/4.png)
 
 
 ---
@@ -189,8 +189,8 @@ AttackGame, Unity ile **Özgür Kadakal** tarafından geliştirilmiş dinamik bi
    Oyun sahnesini yüklemek için **`Assets/Scenes/SampleScene`** dosyasını açın.
 
 📸 **Ekran Görüntüleri:**  
-![OpenSampleScene](ScreenShots/4.png)  
-![OpenSampleScene](ScreenShots/5.png)  
+![OpenSampleScene](./AttackGame/ScreenShots/1.png)  
+![OpenSampleScene](./AttackGame/ScreenShots/2.png)  
 
 ---
 
