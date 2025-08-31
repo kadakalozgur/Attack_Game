@@ -166,7 +166,7 @@ AttackGame, Unity ile **Özgür Kadakal** tarafından geliştirilmiş dinamik bi
 
 ## 🖇️ Assets & References
 
-* 🧍‍♂️ Oyuncu Modeli: [Link](#)
+* 🧍‍♂️ Oyuncu Modeli: [Link](https://sketchfab.com/3d-models/mika-melatika-from-nijisanji-alt-outfit-bcb84e42798a4f55ac2a763c27591cf0)
 * ⚔ Katana Modeli: [Link](#)
 * 🌳 Harita Modeli: [Link](#)
 * 👹 Düşman Modelleri: [Link](#)
