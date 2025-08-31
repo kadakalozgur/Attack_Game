@@ -11,7 +11,7 @@
 ### 🖼️ Gameplay Previews
 
 ### 🎮 In-Game Screenshot 1
-![InGame1](Attack_Game/AttackGame/ScreenShots/1.png)
+![InGame1](./AttackGame/ScreenShots/1.png)
 
 ### 🎮 In-Game Screenshot 2
 ![InGame2](ScreenShots/cardrift.png)
