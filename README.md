@@ -167,12 +167,12 @@ AttackGame, Unity ile **Özgür Kadakal** tarafından geliştirilmiş dinamik bi
 ## 🖇️ Assets & References
 
 * 🧍‍♂️ Oyuncu Modeli: [Link](https://sketchfab.com/3d-models/mika-melatika-from-nijisanji-alt-outfit-bcb84e42798a4f55ac2a763c27591cf0)
-* ⚔ Katana Modeli: [Link](#)
-* 🌳 Harita Modeli: [Link](#)
-* 👹 Düşman Modelleri: [Link](#)
-* 🔊 Ses Efektleri: [Link](#)
-* 🏖 Kum Texture: [Link](#)
-* 🪨 Taş Texture: [Link](#)
+* ⚔ Katana Modeli: [Link](https://free3d.com/tr/3d-model/katana-75134.html)
+* 🌳 Harita Modeli: [Link](https://sketchfab.com/3d-models/old-battle-arena-9dad465609334aef8f1d99c37a30c940)
+* 👹 Düşman Modelleri: [Link](https://www.mixamo.com)
+* 🔊 Ses Efektleri: [Link](https://pixabay.com/tr/sound-effects/search/sound-fx)
+* 🏖 Kum Texture: [Link](https://www.poliigon.com/texture/rippled-wet-sand-texture/6997)
+* 🪨 Taş Texture: [Link](https://www.poliigon.com/texture/ledger-stone-wall-texture-mixed-gray/7000)
 
 ---
 
