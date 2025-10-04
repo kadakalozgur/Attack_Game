@@ -6,6 +6,8 @@
 
 **⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.
 
+**⚠️ Important:** Make sure the downloaded `.exe` file is named **`Attack_Game.exe`**.If you rename it, the game will **not run properly**.
+
 ---
 
 ### 🖼️ Gameplay Previews
@@ -108,6 +110,8 @@ For any feedback, questions, or suggestions:
 ### - Geliştirici: Özgür Kadakal
 
 **⚠️ Önemli:** İndirdiğiniz `.zip` dosyasını ayıklayıp projeyi bu şekilde açınız. Aksi takdirde proje düzgün çalışmayabilir.
+
+**⚠️ Önemli:** İndirilen `.exe` dosyasının adı **`Attack_Game.exe`** olmalıdır. Dosya adını değiştirirseniz, oyun **çalışmayacaktır**. 
 
 ---
 
