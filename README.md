@@ -2,7 +2,7 @@
 
 # ⚔️ AttackGame 🎮
 
-### - Developed by Özgür Kadaka
+### - Developed by Özgür Kadakal
 
 **⚠️ Important:** Please extract the downloaded `.zip` file before opening the project. Otherwise, it may not work properly.
 
