@@ -1,6 +1,6 @@
 ## 🌍 English
 
-# ⚔️ AttackGam 🎮
+# ⚔️ AttackGame 🎮
 
 ### - Developed by Özgür Kadakal
 
